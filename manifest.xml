@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Plugin PUBLIC "sailpoint.dtd" "sailpoint.dtd">
+<Plugin displayName="Custom Spinner" minSystemVersion="8.0" name="CustomSpinner" rightRequired="" version="3.1">
+  <Attributes>
+    <Map>
+      <entry key="minUpgradableVersion" value="1.0"/>
+      <entry key="snippets">
+        <value>
+          <List>
+            <Snippet regexPattern=".*" rightRequired="">
+              <Scripts>
+                <String>ui/js/customspinner.js</String>
+              </Scripts>
+              <StyleSheets>
+                <String>ui/css/customspinner.css</String>
+              </StyleSheets>
+            </Snippet>
+          </List>
+        </value>
+      </entry>
+    </Map>
+  </Attributes>
+</Plugin>
