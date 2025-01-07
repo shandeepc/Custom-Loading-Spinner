@@ -1,4 +1,4 @@
-![image](https://github.com/shandeepc/Announcement/assets/42472392/1458912c-7e31-409b-9e92-d70f7dfbb8b1)
+![Custom Spinner](https://github.com/user-attachments/assets/318a6738-f349-4ec4-ab72-b1703091fca9)
 
 # Custom Spinner
 
@@ -11,18 +11,20 @@
 ## Installation
 * Simply drag and drop the plugin to install it
  
-![image](https://github.com/shandeepc/Announcement/assets/42472392/17582efc-e94a-48d1-9764-c3bf8689bae9)
-![image](https://github.com/shandeepc/Announcement/assets/42472392/f2e13778-a4d5-4c80-a1ad-96a0e94b5189)
+![image](https://github.com/user-attachments/assets/5db35cf7-f748-4c84-989c-ad8e16ad5772)
+![image](https://github.com/user-attachments/assets/9fedeb63-873b-4356-9520-a7c1fed73241)
+
 
 ## Configuration
 *	Place your spinner image in PNG format in /images directory with name 'custom-spinner.png'
 
-![image](https://github.com/shandeepc/Announcement/assets/42472392/fe83e403-5599-424c-bdc9-d58825f367b4)
+![image](https://github.com/user-attachments/assets/cf6756b5-2123-43dc-85e0-14ee5f5c10a7)
 
 ## Verification
 *	Open or Reload the Home Page to see your custom spinner
 
-![image](https://github.com/shandeepc/Announcement/assets/42472392/7ce010bb-e68a-4f6f-91c6-baa8640980de)
+![image](https://github.com/user-attachments/assets/707817b3-c3ea-4904-ba2d-941d4a015272)
+![image](https://github.com/user-attachments/assets/ee64b46f-eb06-48e1-8660-95a64c11969c)
 
 ## Feedback
 *	For bugs, feature enhancement requests, issues, or questions please contact me on [LinkedIn](https://www.linkedin.com/in/shandeepsrinivas/) or [c.shandeep@gmail.com](mailto:c.shandeep@gmail.com)
