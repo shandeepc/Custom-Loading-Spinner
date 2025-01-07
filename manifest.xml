@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE Plugin PUBLIC "sailpoint.dtd" "sailpoint.dtd">
-<Plugin displayName="Custom Spinner" minSystemVersion="8.0" name="CustomSpinner" rightRequired="" version="3.1">
+<Plugin displayName="Custom Spinner" minSystemVersion="8.0" name="CustomSpinner" rightRequired="" version="1.0">
   <Attributes>
     <Map>
       <entry key="minUpgradableVersion" value="1.0"/>
