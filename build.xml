@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Announcement" default="package">
+<project name="Custom Loading Spinner" default="package">
 	<!-- allow overriding of build properties -->
 	
 	<property file="build.properties"/>

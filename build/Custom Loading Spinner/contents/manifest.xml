@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE Plugin PUBLIC "sailpoint.dtd" "sailpoint.dtd">
-<Plugin displayName="Custom Spinner" minSystemVersion="8.0" name="CustomSpinner" rightRequired="" version="1.0">
+<Plugin displayName="Custom Loading Spinner" minSystemVersion="8.0" name="CustomLoadingSpinner" rightRequired="" version="1.0">
   <Attributes>
     <Map>
       <entry key="minUpgradableVersion" value="1.0"/>
@@ -9,10 +9,10 @@
           <List>
             <Snippet regexPattern=".*" rightRequired="">
               <Scripts>
-                <String>ui/js/customspinner.js</String>
+                <String>ui/js/customloadingspinner.js</String>
               </Scripts>
               <StyleSheets>
-                <String>ui/css/customspinner.css</String>
+                <String>ui/css/customloadingspinner.css</String>
               </StyleSheets>
             </Snippet>
           </List>

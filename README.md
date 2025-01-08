@@ -1,8 +1,8 @@
-![Custom Spinner](https://github.com/user-attachments/assets/318a6738-f349-4ec4-ab72-b1703091fca9)
+![Custom Loading Spinner](https://github.com/user-attachments/assets/318a6738-f349-4ec4-ab72-b1703091fca9)
 
-# Custom Spinner
+# Custom Loading Spinner
 
-### Plugin Name: - Custom Spinner
+### Plugin Name: - Custom Loading Spinner
 ### Plugin Version: - 1.0
 ### Supported version: - Identity IQ 8.0 or above 
 ### Supported version: - Any Chromium or Firefox browser (Internet Explorer not supported)

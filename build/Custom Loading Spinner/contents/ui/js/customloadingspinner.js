@@ -6,7 +6,7 @@ Author - Shandeep - https://www.linkedin.com/in/shandeepsrinivas/
 
 const targetNode = document.body;
 const observer = new MutationObserver((mutationsList) => {
-  let cssClassName = 'customSpinnerCustom';
+  let cssClassName = 'customLoadingSpinnerCustom';
   for (const mutation of mutationsList) {
     if (mutation.type === 'childList') {
       mutation.addedNodes.forEach((node) => {
