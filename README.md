@@ -1,4 +1,4 @@
-![Custom Loading Spinner](https://github.com/user-attachments/assets/318a6738-f349-4ec4-ab72-b1703091fca9)
+![Custom Loading Spinner](https://github.com/user-attachments/assets/42793a75-9616-4c6d-a3eb-ee6710dff630)
 
 # Custom Loading Spinner
 
@@ -11,14 +11,13 @@
 ## Installation
 * Simply drag and drop the plugin to install it
  
-![image](https://github.com/user-attachments/assets/5db35cf7-f748-4c84-989c-ad8e16ad5772)
-![image](https://github.com/user-attachments/assets/9fedeb63-873b-4356-9520-a7c1fed73241)
-
+![image](https://github.com/user-attachments/assets/e36da12b-16a5-4d25-8c83-de1748edb71b)
+![image](https://github.com/user-attachments/assets/5d333b6d-87c7-4818-b34d-8e32ccc8fb62)
 
 ## Configuration
-*	Place your spinner image in PNG format in /images directory with name 'custom-spinner.png'
+*	Place your spinner image in PNG format in /images directory with name 'custom-loading-spinner.png'
 
-![image](https://github.com/user-attachments/assets/cf6756b5-2123-43dc-85e0-14ee5f5c10a7)
+![image](https://github.com/user-attachments/assets/5eaf8b72-92bd-4be7-a948-0f1a57c0bb93)
 
 ## Verification
 *	Open or Reload the Home Page to see your custom spinner
